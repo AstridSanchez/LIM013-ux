@@ -16,25 +16,36 @@
 
 ## 1. Preámbulo
 
-El Corona virus ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible. En estas condiciones, la venta física es cada vez menos viable. Sin embargo, con el confinamiento, la cantidad de horas que las personas pasan en internet ha dado más relevancia a los negocios que ya tenían una posición en la web. 
-
-Como compradores, no solemos ser conscientes del ‘viaje’ que pasaba el producto para llegar al supermercado o tienda de donde los tomábamos. Del lado del negocio , ahora no solo debemos ser conscientes de ese viaje, sino también repensar e innovar la forma de llegar a los usuarios quienes han cambiado sus comportamientos y prioridades de compra. 
+El Corona virus ha cambiado las interacciones en casi todos los ámbitos incluido el comercio de productos y servicios. La dinámica del mercado como tradicionalmente la conocíamos ya no es sostenible. En estas condiciones, la venta física es cada vez menos viable. Sin embargo, con el confinamiento, la cantidad de horas que las personas pasan en internet ha dado más relevancia a los negocios que ya tenían una posición en la web.
+Como compradores, no solemos ser conscientes del ‘viaje’ que suele pasar un producto o servicio antes de que lo adquiramos. Y tampoco de nuestro proceso de toma de decisión para comprar/adquirir un producto o servicio.
+Del lado de negocio, en los últimos años, no solo se ha vuelto imprescindible revisar que ese viaje esté centrado en los usuarios. Sino que, con la pandemia, los comportamientos y prioridades de compra han cambiado y con ello se vuelve necesario repensar e innovar la forma cómo llegamos a nuestros usuarios y potenciales nuevos usuarios.
+En ese contexto, les presentamos el emprendimiento elegido para arrancar el primer proyecto: Tu Consulta Laboral.  
 
 ## 2. Resumen del proyecto
 
-Por actualizar.
+Tu Consulta Laboral es un emprendimiento peruano del rubro legal, especializado en derecho laboral. Nació en 2018 y ha sido reconocido por Innova Perú, beneficiarios del fondo StartUp Perú en la 7° generación y actualmente está siendo acelerado por el Centro de Innovación y Desarrollo Emprendedor CIDE-PUCP. 
 
-Entre los emprendimientos tenemos a:
+El servicio que brinda es de asesoría legal laboral a través de paquetes/planes diferenciados por: trabajador o empresa que se encuentran en su web [tuconsultalaboral.pe](https://tuconsultalaboral.pe/). 
 
-* [Empresa](link a empresa)
+Este emprendimiento nació virtual, pero también contaba con opciones de atención presencial. Una persona puede contactarse con Tu Consulta Laboral por Whatsapp, correo, el tawk.to de su web o a la línea de call center. Para contratar el servicio elegido, puede pagar desde la web. 
+Y para recibir la asesoría, antes de la pandemia había opción de recibir asesoría de forma presencial, pero también virtualmente. 
+Para entender más sobre ellos, [ir a este video](https://www.facebook.com/watch/live/?v=781079902357457&ref=watch_permalink).
 
-Luego de conocer con qué emprendimiento trabajarás, los emprendedores te piden que los ayudes a hacer un estudio inicial de cómo debería ser este producto/servicio digital y cómo llegar a sus usuarios finales. Quieren que averigües cómo son los consumidores que utilizarían este canal y cuáles son sus nuevas motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
+Tu Consulta Laboral están preocupados por el porcentaje de conversión de su web, del total de visitas, solo el 3% contrata el servicio. Además, su canal de call center recibe muchas llamadas preguntando sobre los paquetes, si el servicio es gratuito o si pueden contratar por ese medio. 
 
-Una vez conozcas a los posibles consumidores debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo hará llegar sus productos o servicios. Para que guíes a la empresa que elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y decidirse entre los productos o servicios que ofrecen.
+Para este reto, Tu Consulta Laboral quiere que les ayuden a:
+- Entender quienes son sus potenciales clientes en este contexto de pandemia
+- Saber los nuevos servicios legales que podrían ofrecer 
+- Mejorar la experiencia de la plataforma actual 
+
+
+Para ello, te piden hacer un estudio inicial de cómo debería ser este producto/servicio digital y cómo llegar a sus potenciales usuarios. Quieren que averigües cómo utilizarían este canal y cuáles son sus motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse la solución.
+
+Una vez conozcas a los posibles clientes debes formular una propuesta de valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a los usuarios y cómo hará llegar sus productos o servicios. Para que guíes a la empresa que elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría ser el portal donde las personas puedan buscar, ver, elegir y decidirse entre los productos o servicios que ofrecen.
 
 ## 3. Objetivos de aprendizaje
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo. Entender los principales pasos y preguntas que debemos hacernos, cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin perder de vista los objetivos iniciales. Esperamos que en este proyecto puedas entender las necesidades y oportunidades de mejora de las empresas, aprender y empaparte de los posibles modelos de negocio así como investigar a su audiencia, los usuarios que tradicionalmente consumían sus productos o, si fuera el caso, a sus potenciales usuarios, entendiendo sus preferencias y contexto en el que lo hacen.
+El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos de lo que un cliente quiere alcanzar a la definición de un producto digital en poco tiempo. Entender los principales pasos y preguntas que debemos hacernos, cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin perder de vista los objetivos iniciales. Esperamos que en este proyecto puedas entender las necesidades y oportunidades de mejora de las empresas, aprender y empaparte de los posibles modelos de negocio así como investigar a su audiencia y potenciales usuarios, entendiendo sus preferencias y contexto en el que lo hacen.
 
 De la misma manera deberás definir cuál es la mejor forma de ofrecerle los productos de tu cliente a sus usuarios y pensando en una propuesta de valor y sus objetivos. También deberás definir los contenidos, la interacción y el diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta plataforma. Este proyecto se debe "resolver" en squads, por lo que un objetivo importante es aprender a gestionar los tiempos, la comunicación y la planificación para ganar experiencia en trabajos con entrega grupal. Se recomienda que cada una de las integrantes se haga responsable de una parte del trabajo: (1) el entendimiento del problema, (2) planeamiento y diseño de solución, (3) validación de la solución.
 
@@ -139,16 +150,12 @@ supuestos para entender cómo piensan los otros.
 
 ### 1) General
 
-En este proyecto necesitarás hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
+En este proyecto necesitarás hablar con potenciales usuarios y entender cuáles son sus necesidades, cómo las resuelven actualmente y proponer una solución óptima para resolver estas necesidades. 
+Mientras resuelves el proyecto vas a tener que ir documentando las actividades que realices a través de fotos, videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta documentación y luego linkea las partes más importantes en el `README.md` de tu
 repositorio en GitHub.
 
 En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
+que mostrar la solución final a través de imágenes y links a
 las secciones que detallaremos más adelante.
 
 ### 2) Entendimiento del problema
