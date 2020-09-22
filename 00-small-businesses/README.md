@@ -32,7 +32,7 @@ El servicio que brinda es de asesoría legal laboral a través de paquetes/plane
 
 Este emprendimiento nació virtual, pero también contaba con opciones de atención presencial. Una persona puede contactarse con Tu Consulta Laboral por Whatsapp, correo, el tawk.to de su web o a la línea de call center. Para contratar el servicio elegido, puede pagar desde la web. 
 Y para recibir la asesoría, antes de la pandemia había opción de recibir asesoría de forma presencial, pero también virtualmente. 
-Para entender más sobre ellos, [ir a este video](https://www.facebook.com/watch/live/?v=781079902357457&ref=watch_permalink).
+Para entender más, [puedes revisar este video](https://www.facebook.com/watch/live/?v=781079902357457&ref=watch_permalink).
 
 Tu Consulta Laboral están preocupados por el porcentaje de conversión de su web, del total de visitas, solo el 3% contrata el servicio. Además, su canal de call center recibe muchas llamadas preguntando sobre los paquetes, si el servicio es gratuito o si pueden contratar por ese medio. 
 
@@ -192,13 +192,12 @@ El proyecto será entregado en una presentación en donde detalles y sustentes:
 * El diseño del producto o servicio
 * Los resultados de los testeos
 
-Adicionalmente, podrás compartir en una carpeta de Google Drive los documentos complementarios que sustenten tu proceso:
+Adicionalmente, podrás compartir documentos complementarios que sustenten tu proceso:
 
 * Fotos, videos, guías de las actividades que realizaste
 * Flujo de usuario
 * Mapa de sitio
-* Service blueprints
-* Videos
+* Customer Journey Map
 * Etc.
 
 ## 8. Otras consideraciones
