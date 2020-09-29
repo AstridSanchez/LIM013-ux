@@ -181,7 +181,9 @@ los recursos que tienes.
 
 ## 6. Consideraciones técnicas
 
-Antes de empezar a realizar las actividades que elijas tendrás que sustentar con tu coach  el motivo de esa elección. El coach te dará el ok para que puedas empezar.
+Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos puntos los podrás utilizar realizando las actividades del siguiente cuadro. Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach cómo es que distribuirás estos puntos en estas actividades y con el ok podrás empezar.
+
+![Cuadro de presupuestos](https://files.slack.com/files-pri/T0G6CFDMZ-F01CANC0ASU/image.png)
 
 ## 7. Entrega
 
