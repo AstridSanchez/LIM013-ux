@@ -183,7 +183,7 @@ los recursos que tienes.
 
 Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos puntos los podrás utilizar realizando las actividades del siguiente cuadro. Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach cómo es que distribuirás estos puntos en estas actividades y con el ok podrás empezar.
 
-![Cuadro de presupuestos](https://files.slack.com/files-pri/T0G6CFDMZ-F01CANC0ASU/image.png)
+[![Cuadro de presupuestos](https://i.postimg.cc/tgTf8rqX/image-13.png)](https://postimg.cc/SnBDMfY5)
 
 ## 7. Entrega
 
