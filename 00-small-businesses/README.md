@@ -30,7 +30,7 @@ Tu Consulta Laboral es un emprendimiento peruano del rubro legal, especializado 
 
 El servicio que brinda es de asesoría legal laboral a través de paquetes/planes diferenciados por: trabajador o empresa que se encuentran en su web [tuconsultalaboral.pe](https://tuconsultalaboral.pe/). 
 
-Este emprendimiento nació virtual, pero también contaba con opciones de atención presencial. Una persona puede contactarse con Tu Consulta Laboral por Whatsapp, correo, el tawk.to de su web o a la línea de call center. Para contratar el servicio elegido, puede pagar desde la web. 
+Este emprendimiento nació virtual, pero también contaba con opciones de atención presencial. Una persona puede contactarse con Tu Consulta Laboral por Whatsapp, correo, el tawk.to de su web o a la línea de call center. Para contratar el servicio elegido, puede pagar desde la web o con depósito en cuenta. 
 Y para recibir la asesoría, antes de la pandemia había opción de recibir asesoría de forma presencial, pero también virtualmente. 
 Para entender más, [puedes revisar este video](https://www.facebook.com/watch/live/?v=781079902357457&ref=watch_permalink).
 
